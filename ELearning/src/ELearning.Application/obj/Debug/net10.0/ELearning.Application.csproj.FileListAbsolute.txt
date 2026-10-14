@@ -13,3 +13,4 @@ D:\E-Learning\Project\ELearning\src\ELearning.Application\obj\Debug\net10.0\ELea
 D:\E-Learning\Project\ELearning\src\ELearning.Application\obj\Debug\net10.0\refint\ELearning.Application.dll
 D:\E-Learning\Project\ELearning\src\ELearning.Application\obj\Debug\net10.0\ELearning.Application.pdb
 D:\E-Learning\Project\ELearning\src\ELearning.Application\obj\Debug\net10.0\ref\ELearning.Application.dll
+D:\E-Learning\Project\ELearning\src\ELearning.Application\obj\Debug\net10.0\ELearning.Application.sourcelink.json

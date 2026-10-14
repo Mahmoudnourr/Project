@@ -12,5 +12,9 @@ namespace ELearning.Application.Common.Interfaces
         string fullName,
         string email,
         string password);
+
+        Task<IdentityOperationResult> LoginAsync(
+            string email,
+            string password);
     }
 }

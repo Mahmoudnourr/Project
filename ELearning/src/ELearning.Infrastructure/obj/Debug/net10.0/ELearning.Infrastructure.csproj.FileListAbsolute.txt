@@ -17,3 +17,4 @@ D:\E-Learning\Project\ELearning\src\ELearning.Infrastructure\obj\Debug\net10.0\E
 D:\E-Learning\Project\ELearning\src\ELearning.Infrastructure\obj\Debug\net10.0\ref\ELearning.Infrastructure.dll
 D:\E-Learning\Project\ELearning\src\ELearning.Infrastructure\bin\Debug\net10.0\ELearning.Infrastructure.runtimeconfig.json
 D:\E-Learning\Project\ELearning\src\ELearning.Infrastructure\obj\Debug\net10.0\ELearning.Infrastructure.genruntimeconfig.cache
+D:\E-Learning\Project\ELearning\src\ELearning.Infrastructure\obj\Debug\net10.0\ELearning.Infrastructure.sourcelink.json

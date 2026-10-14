@@ -9,3 +9,4 @@ D:\E-Learning\Project\ELearning\src\ELearning.Domain\obj\Debug\net10.0\ELearning
 D:\E-Learning\Project\ELearning\src\ELearning.Domain\obj\Debug\net10.0\refint\ELearning.Domain.dll
 D:\E-Learning\Project\ELearning\src\ELearning.Domain\obj\Debug\net10.0\ELearning.Domain.pdb
 D:\E-Learning\Project\ELearning\src\ELearning.Domain\obj\Debug\net10.0\ref\ELearning.Domain.dll
+D:\E-Learning\Project\ELearning\src\ELearning.Domain\obj\Debug\net10.0\ELearning.Domain.sourcelink.json
